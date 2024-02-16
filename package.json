@@ -1,6 +1,6 @@
 {
 	"name": "define-accessor-property",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Define an accessor property on an object. Will either throw, or fall back to assignment in loose mode, in an engine without descriptors.",
 	"main": "index.js",
 	"types": "./index.d.ts",
