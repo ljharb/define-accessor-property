@@ -76,5 +76,5 @@ assert.deepEqual(
 [downloads-url]: https://npm-stat.com/charts.html?package=define-accessor-property
 [codecov-image]: https://codecov.io/gh/ljharb/define-accessor-property/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/define-accessor-property/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/define-accessor-property
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/define-accessor-property/main
 [actions-url]: https://github.com/ljharb/define-accessor-property/actions
